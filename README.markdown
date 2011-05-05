@@ -1,6 +1,6 @@
 ## FastDelegate
 
-Delegates for C++. By Don Clugston. This is probably the best way to implement Delegates in C++.
+Delegates for C++. By Don Clugston. This is one of the best ways to implement Delegates in C++. An alternative to Boost::function and Boost::bind (there is a compatible syntax).
 
 ## About
 
